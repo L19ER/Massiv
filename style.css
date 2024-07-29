@@ -66,3 +66,9 @@ span {
   height: 25px;
   cursor: pointer;
 }
+
+
+.text-decoration-line-through {
+text-decoration: line-through;
+}
+}
