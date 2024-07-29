@@ -1,3 +1,5 @@
+'use strict'
+
 /* Theory
 const array = [1, 2, 3, 6, 34];
 const arrayString = [a, b, c, null, 12];
